@@ -1,0 +1,20 @@
+Circle with radius: 1.0
+Circumference: 6.283185307179586
+Area: %.2%3.141592653589793
+
+Circle with radius: 2.0
+Circumference: 12.566370614359172
+Area: %.2%12.566370614359172
+
+Circle with radius: 3.0
+Circumference: 18.84955592153876
+Area: %.2%28.274333882308138
+
+Circle with radius: 4.0
+Circumference: 25.132741228718345
+Area: %.2%50.26548245743669
+
+Circle with radius: 5.0
+Circumference: 31.41592653589793
+Area: %.2%78.53981633974483
+
