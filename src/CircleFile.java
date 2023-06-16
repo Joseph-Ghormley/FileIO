@@ -57,7 +57,7 @@ public class CircleFile {
                 writer.println();
                 System.out.println(line);
                 System.out.printf("Circumference: %.2f", circle.calculateCircumference());
-                System.out.printf("Area: %.2f" , circle.calculateArea());
+                System.out.printf("\nArea: %.2f" , circle.calculateArea());
                 System.out.println();
             }
         } catch (IOException e) {
